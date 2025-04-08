@@ -1,10 +1,10 @@
 # Optimizing Inventory and Delivery in a Retail Supply Chain
 # Dataset: UCI Online Retail Dataset
-
+'''
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
+'''
 # -----------------------------------------
 # 📥 Load the Data
 # -----------------------------------------
