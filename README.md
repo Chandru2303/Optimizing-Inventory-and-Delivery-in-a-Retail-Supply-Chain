@@ -1,5 +1,8 @@
 # Optimizing Inventory and Delivery in a Retail Supply Chain
 # Dataset: UCI Online Retail Dataset
+
+http://localhost:8888/lab/tree/Optimizing%20Inventory%20and%20Delivery%20in%20a%20Retail%20Supply%20Chain.ipynb
+
 ```
 import pandas as pd
 import numpy as np
